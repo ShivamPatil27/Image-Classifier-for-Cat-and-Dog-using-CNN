@@ -1,0 +1,59 @@
+Python 3.7.6 (default, Jan  8 2020, 13:42:34) 
+Type "copyright", "credits" or "license" for more information.
+
+IPython 7.14.0 -- An enhanced Interactive Python.
+
+runcell(0, '/Users/shivamajaypatil/Desktop/myfol/Machine Learning A-Z Template Folder/Part 8 - Deep Learning/Section 40 - Convolutional Neural Networks (CNN)/convolutional_neural_network.py')
+2.0.0
+Found 8000 images belonging to 2 classes.
+Found 2000 images belonging to 2 classes.
+Epoch 1/25
+334/334 [==============================] - 423s 1s/step - loss: 0.6603 - accuracy: 0.6031 - val_loss: 0.5981 - val_accuracy: 0.6799
+Epoch 2/25
+334/334 [==============================] - 394s 1s/step - loss: 0.5695 - accuracy: 0.7034 - val_loss: 0.5482 - val_accuracy: 0.7255
+Epoch 3/25
+334/334 [==============================] - 404s 1s/step - loss: 0.5177 - accuracy: 0.7414 - val_loss: 0.4754 - val_accuracy: 0.7609
+Epoch 4/25
+334/334 [==============================] - 425s 1s/step - loss: 0.4654 - accuracy: 0.7745 - val_loss: 0.4406 - val_accuracy: 0.7922
+Epoch 5/25
+334/334 [==============================] - 389s 1s/step - loss: 0.4400 - accuracy: 0.7965 - val_loss: 0.4222 - val_accuracy: 0.8090
+Epoch 6/25
+334/334 [==============================] - 392s 1s/step - loss: 0.4071 - accuracy: 0.8123 - val_loss: 0.4054 - val_accuracy: 0.8120
+Epoch 7/25
+334/334 [==============================] - 393s 1s/step - loss: 0.3784 - accuracy: 0.8256 - val_loss: 0.4046 - val_accuracy: 0.8177
+Epoch 8/25
+334/334 [==============================] - 388s 1s/step - loss: 0.3618 - accuracy: 0.8354 - val_loss: 0.3912 - val_accuracy: 0.8292
+Epoch 9/25
+334/334 [==============================] - 393s 1s/step - loss: 0.3363 - accuracy: 0.8505 - val_loss: 0.3666 - val_accuracy: 0.8460
+Epoch 10/25
+334/334 [==============================] - 393s 1s/step - loss: 0.3117 - accuracy: 0.8631 - val_loss: 0.4017 - val_accuracy: 0.8245
+Epoch 11/25
+334/334 [==============================] - 387s 1s/step - loss: 0.2928 - accuracy: 0.8714 - val_loss: 0.3620 - val_accuracy: 0.8455
+Epoch 12/25
+334/334 [==============================] - 391s 1s/step - loss: 0.2899 - accuracy: 0.8748 - val_loss: 0.3498 - val_accuracy: 0.8512
+Epoch 13/25
+334/334 [==============================] - 391s 1s/step - loss: 0.2523 - accuracy: 0.8910 - val_loss: 0.3698 - val_accuracy: 0.8416
+Epoch 14/25
+334/334 [==============================] - 398s 1s/step - loss: 0.2425 - accuracy: 0.8983 - val_loss: 0.3714 - val_accuracy: 0.8487
+Epoch 15/25
+334/334 [==============================] - 393s 1s/step - loss: 0.2358 - accuracy: 0.9023 - val_loss: 0.3615 - val_accuracy: 0.8515
+Epoch 16/25
+334/334 [==============================] - 392s 1s/step - loss: 0.2046 - accuracy: 0.9167 - val_loss: 0.3849 - val_accuracy: 0.8527
+Epoch 17/25
+334/334 [==============================] - 388s 1s/step - loss: 0.1954 - accuracy: 0.9200 - val_loss: 0.4154 - val_accuracy: 0.8456
+Epoch 18/25
+334/334 [==============================] - 397s 1s/step - loss: 0.1887 - accuracy: 0.9249 - val_loss: 0.3915 - val_accuracy: 0.8432
+Epoch 19/25
+334/334 [==============================] - 395s 1s/step - loss: 0.1753 - accuracy: 0.9305 - val_loss: 0.4270 - val_accuracy: 0.8429
+Epoch 20/25
+334/334 [==============================] - 392s 1s/step - loss: 0.1650 - accuracy: 0.9310 - val_loss: 0.4680 - val_accuracy: 0.8414
+Epoch 21/25
+334/334 [==============================] - 393s 1s/step - loss: 0.1505 - accuracy: 0.9393 - val_loss: 0.4582 - val_accuracy: 0.8476
+Epoch 22/25
+334/334 [==============================] - 393s 1s/step - loss: 0.1392 - accuracy: 0.9455 - val_loss: 0.5159 - val_accuracy: 0.8474
+Epoch 23/25
+334/334 [==============================] - 391s 1s/step - loss: 0.1350 - accuracy: 0.9463 - val_loss: 0.5076 - val_accuracy: 0.8292
+Epoch 24/25
+334/334 [==============================] - 390s 1s/step - loss: 0.1297 - accuracy: 0.9494 - val_loss: 0.4701 - val_accuracy: 0.8534
+Epoch 25/25
+334/334 [==============================] - 390s 1s/step - loss: 0.1294 - accuracy: 0.9486 - val_loss: 0.5258 - val_accuracy: 0.8464
